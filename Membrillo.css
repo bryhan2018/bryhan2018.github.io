@@ -1,0 +1,71 @@
+﻿body {
+    #grad1 
+    height: 200px;
+    background-image: url("vacaciones.jpg");
+    font-family: Arial, Helvetica, sans-serif
+
+}
+ 
+a:hover {
+    color: hotpink;
+}
+h1{
+    text-shadow: 2px 2px 5px BLUE;
+    color: black;
+    margin-left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+   
+}
+h2 {
+     
+    color: black;
+    margin-left: 0px;
+font-family: Arial, Helvetica, sans-serif;
+}
+p1{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif; 
+} 
+
+p2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  
+} 
+ 
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
